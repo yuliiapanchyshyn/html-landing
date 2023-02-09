@@ -1,0 +1,43 @@
+.icon__dots {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 73px;
+    color: rgb(203, 78, 58);
+    text-align: center;
+}
+
+.section__content {
+    padding: px;
+    background-color: rgb(255, 255, 255);
+}
+
+.section__content-title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 56px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.content__box
+
+.content__box-icon {
+    color: rgb(31, 49, 56);
+    background-color: rgba(0, 0, 0, 0);
+    height: 50px;
+
+}
+
+.content__box-title {
+    padding: auto;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.content__box-description {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 17px;
+    text-align: left;
+}

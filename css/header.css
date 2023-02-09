@@ -1,0 +1,5 @@
+.header {
+    padding: 110px;
+    background-color: var(--accent-color);
+    font-size: 64px;
+}
