@@ -1,7 +1,7 @@
 .section__content {
+    background-color: rgb(255, 255, 255);
     padding-bottom: 60px;
     padding-top: 60px;
-    background-color: rgb(255, 255, 255);
     min-width: 320px;
 }
 .icon__dots {
@@ -36,6 +36,7 @@
     background-color: rgba(0, 0, 0, 0);
     height: 50px;
     max-width: 100%;
+    text-align: left;
 }
 
 .content__box-title {
