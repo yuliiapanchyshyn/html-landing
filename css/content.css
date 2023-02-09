@@ -3,6 +3,8 @@
     font-size: 73px;
     color: rgb(203, 78, 58);
     text-align: center;
+    font-style: normal;
+    font-weight: 400;
 }
 
 .section__content {
