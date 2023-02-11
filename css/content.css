@@ -10,13 +10,6 @@
     width: 320px;
 }
 
-.content-header__container {
-    display: flex;
-    justify-content: center;
-    height: 262.8px;
-    width: 272px;
-}
-
 .icon-dots {
     font-family: 'Bebas Neue', cursive;
     font-size: 73px;
