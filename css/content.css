@@ -6,10 +6,6 @@
     padding-top: 60px;
     min-width: 320px;
     position: relative;
-}
-
-.content__container {
-    display: block;
     max-width: 1200px;
     width: 320px;
 }
@@ -19,11 +15,6 @@
     justify-content: center;
     height: 262.8px;
     width: 272px;
-}
-
-.icon-dots__container {
-    height: 87.6px;
-    width: 272;
 }
 
 .icon-dots {
@@ -36,13 +27,8 @@
     line-height: 87.6px;
     text-transform: none;
     vertical-align: baseline;
-}
-
-.content-title__container {
-    height: 175.2px;
-    width: 272px;
-    font-size: 73px;
-    line-height: 87.6px;
+    height: 87.6px;
+    width: 272;
 }
 
 .content__title {
@@ -57,6 +43,8 @@
     text-transform: none;
     vertical-align: baseline;
     line-height: 67.2px;
+    height: 175.2px;
+    width: 272px;
 }
 
 .content__box {
