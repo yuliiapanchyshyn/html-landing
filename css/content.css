@@ -11,16 +11,19 @@
 }
 
 .icon-dots {
-    font-family: 'Bebas Neue', cursive;
+    font-family: var(--heading-font);
     font-size: 73px;
-    color: rgb(203, 78, 58);
+    color: var(--light-accent-color);
     text-align: center;
     font-style: normal;
     font-weight: 400;
     line-height: 87.6px;
     text-transform: none;
     vertical-align: baseline;
-    height: 87.6px;
+    line-height: 87.6px;
+    display: inline;
+    height: auto;
+    width: auto;
 }
 
 .content__title {
