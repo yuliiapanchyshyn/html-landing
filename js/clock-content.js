@@ -1,0 +1,8 @@
+(function () {
+    function updateClock() {
+        const clockContainer = document.querySelector('.clock');
+        clockContainer.innerHTML = new Date().toLocaleTimeString('uk');
+    }
+    setInterval(updateClock, 1000);
+
+})(); 
