@@ -90,6 +90,42 @@
     border: 1px solid var(--text-color);
 }
 
+.header__svg {
+    transform: translate(0, 6px);
+    height: 26px;
+    width: 26px;
+    border-radius: 50%;
+    color: var(--text-color);
+}
+
+.header__svg:hover {
+    color: var(--light-accent-color);
+}
+
+.header__menu-icon {
+    font-family: 'Montserrat', sant-serif;
+    font-size: 16px;
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 500;
+    margin: 5px 7.5px 5px 7.5px;
+    padding: 5px 2px 5px 2px;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.header__menu-icon:hover {
+    color: var(--light-accent-color);
+}
+
+@media (max-width: 990px) {
+    body.lock {
+        overflow: hidden;
+    }
+
+
+.header__social
+}
 
 
 
@@ -109,10 +145,5 @@
     font-weight: 400px;
     text-align: left;
 }
-
-
-
-
-
 
 
