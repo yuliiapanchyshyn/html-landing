@@ -26,6 +26,11 @@
     scroll-behavior: smooth;
     font-family: 'Lato', sans-serif;
     color: var(--text-color);
+    
+     --square-color:#ff7f50;
+    --drop-color:#f08080;
+    --circle-color: #e9967a;
+    --figure-color: #e9967a;
 }
 
 a{
